@@ -1,0 +1,1 @@
+# qr-code-para-meu-portifolio
