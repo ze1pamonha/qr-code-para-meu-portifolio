@@ -94,10 +94,13 @@ body {
 
 @media screen and (min-width:1024px){
     .imagem{
-        width: 30%;
+        width: 60%;
     }
     .tudo{
-        height: 27em;
+        width: 35%;
+        height: 20em;
+        margin-top: 10%;
+        margin-left: 30%;
     }
 }
 
